@@ -1,9 +1,9 @@
 module.exports={
   google:{
-    clientID:'689720369705-22h1va8tfgi6pj34bul92o3jcs6qvoit.apps.googleusercontent.com',
-    clientSecret:'aCE6u8MqgrU8JdEcbUmw-00G'
+    clientID:'',
+    clientSecret:''
   },
   mongoLab:{
-    keys:'mongodb://user:Nitp@ds127801.mlab.com:27801/user'
+    keys:''
   }
 };
